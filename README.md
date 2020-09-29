@@ -2,17 +2,19 @@
   <img alt="Logo" src="https://cdn-images-1.medium.com/fit/c/100/100/2*nyPyjHZfvQ_zeKQcaqPx3A.png" width="100" style="border-radius:50%;"/>
 </div>
 <h1 align="center">
-  sld.codes
+  sld.codes - V1
 </h1>
 <h4 align="center">
-  The Personal Site of Sam Larsen-Disney
+  The <strong>legacy</strong> Personal Site of Sam Larsen-Disney
 </h4>
 
-# 👋 Welcome to my personal site's repo.
+# This is the repository for the legacy version of sld.codes. For the most recent version, [click here](https://github.com/slarsendisney/personal-site).
+
+# 👋 Personal Site V1
 
 You can see it live here:
 
-[``` sld.codes ```](https://sld.codes/)
+[``` v1.sld.codes ```](https://v1.sld.codes/)
 
 I built the whole site using my favourite react framework - Gatsby! If you haven't heard of it, you should check it out here:
 
